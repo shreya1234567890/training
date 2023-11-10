@@ -1,0 +1,10 @@
+[
+    {
+        "sourceRelativeURL":"user-aws1565/adf/main/cases_deaths.csv",
+        "sinkFileName":"cases_deaths.csv"
+    },
+    {
+        "sourceRelativeURL":"user-aws1565/adf/main/hospital_admissions.csv",
+        "sinkFileName":"hospital_admissions.csv"
+    }
+]
